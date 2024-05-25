@@ -1,3 +1,1 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<center><h2>Nothing here to see 😒</h2></center>
