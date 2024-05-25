@@ -1,1 +1,1 @@
-<center><h2>Nothing here to see 😒</h2></center>
+<h2 align="center">Nothing here to see 😒</h2>
